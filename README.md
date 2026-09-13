@@ -6,8 +6,6 @@ This project is a SQL-based Food Delivery Analytics project developed using MySQ
 
 The project uses a relational database to store and analyze information about customers, restaurants, products, orders, order items, and deliveries.
 
-The goal is to practice SQL concepts and extract useful business insights from food delivery data.
-
 ## Database Structure
 
 The database contains 6 tables:
